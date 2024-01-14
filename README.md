@@ -23,30 +23,30 @@ The starter code for this challenge consists of three files.
 
 ### Part 1: Access the New York Times API
 
-- [ ] Access 20 pages of movie reviews from The New York Times
-- [ ] Preview JSON data
-- [ ] Convert data to Pandas DataFrame
-- [ ] Extract title data
-- [ ] Convert keywords column list to string
-- [ ] Create title list
+- [x] Access 20 pages of movie reviews from The New York Times
+- [x] Preview JSON data
+- [x] Convert data to Pandas DataFrame
+- [x] Extract title data
+- [x] Convert keywords column list to string
+- [x] Create title list
 
 ### Part 2: Access the Movie Database API
 
-- [ ] Obtain list of movie titles from The Movie Database
-- [ ] Preview JSON data
-- [ ] Convert data to Pandas DataFrame
+- [x] Obtain list of movie titles from The Movie Database
+- [x] Preview JSON data
+- [x] Convert data to Pandas DataFrame
 
 ### Part 3: Merge and Clean the Data for Export
 
-- [ ] Merge both data sets
-- [ ] Fix column data
-- [ ] Drop irrelevant data
-- [ ] Delete duplication and re-index
-- [ ] Export final data to CSV
+- [x] Merge both data sets
+- [x] Fix column data
+- [x] Drop irrelevant data
+- [x] Delete duplication and re-index
+- [x] Export final data to CSV
 
 ## API Keys
 
-To run this program one will need their own API keys from [The New York Times](https://developer.nytimes.com/accounts/create), and [The Movie Database](https://www.themoviedb.org/signup).  These keys would be saved in a .env file in the following format.
+To run this program one will need their own API keys from [The New York Times](https://developer.nytimes.com/accounts/create), and [The Movie Database](https://www.themoviedb.org/signup). These keys would be saved in a .env file in the following format.
 
 ```
 NYT_API_KEY="ENTER YOUR KEY HERE"
