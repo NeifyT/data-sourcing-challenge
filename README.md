@@ -61,7 +61,7 @@ The program folder contains the completed Jupyter notebook which can be run cell
 retrieve_movie_data.ipynb
 ```
 
-The outputs for all cells in the notebook may not be cleared (just in case viewer does not have API keys to step through the notebook). The notebook cells may be re-run from top to bottom. Outputs may resemble those displayed in the original starter code—give or take depending on how static the data source is.
+The outputs for cells in the notebook are saved with the file (just in case viewer does not have API keys to step through the notebook). The notebook cells may be re-run from top to bottom. Outputs may resemble those displayed in the original starter code. However, one step in the process where I diverged created more accurate results throughout the rest.
 
 Additionally the final output will be stored in the output folder as a CSV file:
 
